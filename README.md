@@ -7,15 +7,15 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 /* FONT (From Google Fonts) */
 
-@import url('FONT URL');
+@import url('https://fonts.google.com/specimen/Hind+Madurai');
 
 /* BACKGROUND */
 
 body {
-	background: url('BACKGROUND URL') center center fixed;
+	background: url('https://i.imgur.com/Mb9PPdh.jpeg') center center fixed;
 	background-size: 100%;
-	font-family: 'FONT NAME';
-	color: #2e2a2b
+	font-family: 'Lato';
+	color: #8C493A
 }
 
 /* MAIN PANEL */
